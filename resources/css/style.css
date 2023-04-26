@@ -9,3 +9,8 @@ background-color: #000000;
     font-size: 50px;
     color: #ffffff;
 }
+
+.link--cta{
+    font-size: 16px;
+    color: aquamarine;
+}
